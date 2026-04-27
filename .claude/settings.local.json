@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/wohuang/.claude/**)",
+      "Bash(mkdir -p ~/.claude/agents/)",
+      "Bash(mkdir -p .claude/rules)",
+      "Bash(cp -r /c/work/JavaTools/idea/work/everything-claude-code/rules/common .claude/rules/)",
+      "Bash(cp -r /c/work/JavaTools/idea/work/everything-claude-code/rules/typescript .claude/rules/)"
+    ]
+  }
+}
